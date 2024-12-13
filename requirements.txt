@@ -3,5 +3,6 @@ pandas
 numpy
 statsmodels
 plotly
-scit-learn
+scikit-learn
+
 
