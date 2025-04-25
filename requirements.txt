@@ -1,9 +1,9 @@
 streamlit
+yfinance
 pandas
 numpy
-statsmodels
-plotly
-scikit-learn
 matplotlib
-
-
+tensorflow
+scikit-learn
+scipy
+tensorflow==2.15.0
